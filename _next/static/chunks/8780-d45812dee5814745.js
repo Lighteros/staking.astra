@@ -1012,7 +1012,7 @@
       s(8627),
         (t.Z = (e) =>
           (0, l.jsxs)("img", {
-            src:"/images/logo.png"
+            src:"/images/logo.svg"
           }));
     },
     29191: function (e, t, s) {
