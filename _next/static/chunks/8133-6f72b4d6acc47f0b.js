@@ -374,10 +374,10 @@
           },
           Community: {
             Discord: "https://discord.com/invite/orderlynetwork",
-            Twitter: "https://twitter.com/",
+            Twitter: "https://x.com/AstraAI_ETH",
             Medium: "https://medium.com/@orderlynetwork",
             Linkedin: "https://www.linkedin.com/company/orderly-network",
-            Telegram: "https://t.me/",
+            Telegram: "https://t.me/AstraAI_ETH",
           },
         },
         o = 1.2,
